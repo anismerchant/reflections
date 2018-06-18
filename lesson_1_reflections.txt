@@ -1,0 +1,51 @@
++ connection types: "type-of", "part-of", or "operates-on"
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    + Very easy to spot it and relatively much faster.
+    + On my configured system, it highlights in 'red' what was deleted in one versions
+    and in 'green' what was added in another version
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    + It'll make it easier to track changes; undo changes, experiment with ideas,
+      share my work, collaborate, and build projects more efficiently.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    + pros: local hard drives, not as often and as many versions (I choose)
+    + cons: time consuming, not as easy to swamp changes, harder to share with others
+    and collaborate; not online.
+
+    + also, with Git, I get to think about my work in bunch of steps
+    + allows me to see my work in a relatively structured and organized way
+    + fix all of my mistakes backwards and forwards
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    + single-unit of idea so easier to find and make specific changes
+
+How can you use the commands git log and git diff to view the history of files?
+
+    + git log: full history of commits with meta data
+    + git diff: differences info in various versions of files and branches
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    + I'll feel more comfy breaking more things so I can learn more without fear
+    and I'm trying to be more fearless
+    + opportunity to re-think my entire code base or part of it with freedom to
+    try new things
+    + explore significant changes with in code base and deep concepts
+    + be a better explorer and a better programmer
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    + git commands
+    + for various projects
