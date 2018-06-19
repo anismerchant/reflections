@@ -4,3 +4,10 @@ local?
   +remote repository can be used to share your work and encourage collaboration
   +it also allows one to work from different computers
   +it helps to back up ones project outside of local hard drives
+
+  Why might you want to always pull changes manually rather than having Git
+  automatically stay up-to-date with your remote repository?
+
+    +to control flow of information to local repository
+    +gives one an opportunity to review the pulls at their pace
+    +if it's automatic, then one could potentially get overwhelmed with overflow of info
