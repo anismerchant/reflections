@@ -11,3 +11,22 @@ local?
     +to control flow of information to local repository
     +gives one an opportunity to review the pulls at their pace
     +if it's automatic, then one could potentially get overwhelmed with overflow of info
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    +forks: replicating someone else's GitHub repository on GitHub's servers and thus,
+    the owner of that repository gets credit for the original work on which others
+    who forked it can build upon it. After forking, one has the option of cloning
+    it to their local computers; forking is only used within the context of GitHub. In
+    other words, it's cloning a repository from GitHub onto Github; and that's forking.
+
+    +clones: replicating a repository to one's local computer without forking it; one
+    can clone repositories from GitHub or locally between repositories; in other words,
+    cloning is taking an existing repository and making one just like it. The original
+    repository can be remote (i.e. on GitHub) which is cloned locally or it can exist on
+    one spot on your local computer which you clone to another spot on your local computer.
+
+    +branches: it allows one to create an offshoot copy of the master (or main or secondary)
+    branch to experiment with new ideas or features that can later be merged or discarded;
+    they happen on a single repository, that is, you create one on a single repository.
