@@ -30,3 +30,11 @@ use one instead of another?
     +branches: it allows one to create an offshoot copy of the master (or main or secondary)
     branch to experiment with new ideas or features that can later be merged or discarded;
     they happen on a single repository, that is, you create one on a single repository.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    +it'll allow you to work off-line, especially if you're anticipating no on-line access.
+    +it's a great way to update your local copy of the remote branch before you go off-line
+    and this will give you access to any updates that have been made to the remote since you
+    last synced up.
