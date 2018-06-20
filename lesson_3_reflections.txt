@@ -38,3 +38,19 @@ stored locally?
     +it's a great way to update your local copy of the remote branch before you go off-line
     and this will give you access to any updates that have been made to the remote since you
     last synced up.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Without Git and GitHub:
+        +I've done it before and it was painful. These are the tools I used:
+            ++Google Drive: to house changes that I gave access to a team of developers.
+            ++Pencil Project: an open-source software to drawn illustrations of mistakes and save versions.
+            ++Email, WhatsApp, Skype, Join.Me: to communicate changes, which included screen sharing.
+            ++Xampp: local server to install frameworks to test and review code
+            ++Slack: didn't use it at the time, but it would be a great substitute to communicate code
+            change requests.
+
+    With Git and GitHub:
+        +this makes it much easier in every aspect and it's a must, in my opinion, for almost every
+        project, especially with teams of two or more.
