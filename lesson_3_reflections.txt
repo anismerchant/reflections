@@ -42,7 +42,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Without Git and GitHub:
+    +Without Git and GitHub:
         +I've done it before and it was painful. These are the tools I used:
             ++Google Drive: to house changes that I gave access to a team of developers.
             ++Pencil Project: an open-source software to drawn illustrations of mistakes and save versions.
@@ -51,6 +51,17 @@ and what would be harder?
             ++Slack: didn't use it at the time, but it would be a great substitute to communicate code
             change requests.
 
-    With Git and GitHub:
+    +With Git and GitHub:
         +this makes it much easier in every aspect and it's a must, in my opinion, for almost every
         project, especially with teams of two or more.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits
+does each approach have?
+
+    +making changes in a separate branch to experiment, to try new ideas, and particularly, to share and
+    collaborate via Github pull requests.
+    +it also helps to safeguard main project code on master branch from costly mistakes.
+    +using a separate branch is also a great way to collaborate and seek input from others on the team.
+    +if there are minor, single unit changes with relatively low chance of disastrous outcome, then I
+    suppose committing changes directly on the master branch should be fine. One benefit is fewer steps
+    with direct access to changes for anyone involved in the project.
