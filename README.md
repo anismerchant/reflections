@@ -1,10 +1,10 @@
 # From Udacity's Course: How to Use Git and GitHub
 
-Awesome course and I highly recommend it. **And it's free**. As your journey Git and GitHub with Caroline and Sarah as your
+Awesome course and I highly recommend it. **And it's free**. As you journey Git and GitHub with Caroline and Sarah as your
 guides, you'll be asked to reflect on what you learn. Below are the questions you'll be asked to share your thoughts on.
 
-If you're curious about Git and GitHub as version control and respository tools, then definitely take this course, even
-if it's for a refresher. You'll learn tons and you'll have loads of fun. Caroline and Sarah are terrific educators. 
+If you're curious about Git and GitHub as version control and repository tools, then definitely take this course, even
+if it's as a refresher. You'll learn tons and you'll have loads of fun. Caroline and Sarah are terrific educators.
 
 ### Leasson 1: Questions to Ponder
 
@@ -15,7 +15,7 @@ if it's for a refresher. You'll learn tons and you'll have loads of fun. Carolin
 3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having
 versions automatically saved, like Google docs does?
 
-4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like 
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like
 Google Docs, treat each file separately?
 
 5. How can you use the commands git log and git diff to view the history of files?
