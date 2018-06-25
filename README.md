@@ -6,7 +6,7 @@ guides, you'll be asked to reflect on what you learn. Below are the questions yo
 If you're curious about Git and GitHub as version control and repository tools, then definitely take this course, even
 if it's as a refresher. You'll learn tons and you'll have loads of fun. Caroline and Sarah are terrific educators.
 
-### Leasson 1: Questions to Ponder
+### Lesson 1: Questions to Ponder
 
 1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
@@ -24,7 +24,7 @@ Google Docs, treat each file separately?
 
 7. Now that you have your workspace set up, what do you want to try using Git for?
 
-### Leasson 2: Questions to Ponder
+### Lesson 2: Questions to Ponder
 
 1. What happens when you initialize a repository? Why do you need to do it?
 
@@ -40,7 +40,7 @@ Google Docs, treat each file separately?
 
 7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
 
-### Leasson 3: Questions to Ponder
+### Lesson 3: Questions to Ponder
 
 1. When would you want to use a remote repository rather than keeping all your work local?
 
